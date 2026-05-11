@@ -31,7 +31,7 @@ I made it because I wanted a cool unique gift to give :)
 - [easyeda project](alan.eprj)
 
 ## Bill of Materials (BOM) and Costs
-
 - **PCB**: $3.10 (OSH Park)
 - **SMT components**: €14.78 (LCSC)
-
+- **WCH programmer**: €5.00 (AliExpress)
+- **Lace**: €2.00 (AliExpress)
